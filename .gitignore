@@ -451,7 +451,3 @@ include/*
 lib/*
 bin/*
 test/test_runner
-
-
-*.vcxproj
-*.filters
